@@ -6,9 +6,9 @@ this algorithm is original from [Michael Fogleman](http://code.activestate.com/r
 Implement
 --------------------
 
-Python ShortUrl.py
-NodeJs ShortUrl.js
-C#     ShortUrl.cs
+- Python ShortUrl.py
+- NodeJs ShortUrl.js
+- C#     ShortUrl.cs
 
 
 
